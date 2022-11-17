@@ -528,7 +528,7 @@
 		<description>Operationmode</description>
 		<state pattern="%d" readOnly="false" max="4" min="0" step="1"/>
 	</channel-type>
-	
+
 	<channel-type id="currentmode">
 		<item-type>Number</item-type>
 		<label>Currentmode</label>
